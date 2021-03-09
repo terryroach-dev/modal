@@ -1,2 +1,2 @@
-# modal
-Use a Modal
+A modal is a dialog box/pop up window that is displayed on top of the current page. The user must engage with the modal in order to close and return to the main content. Modals can be used to direct a users attention to some required action or some important information. You will often see them used at the bottom of pages prompting the user to accpet cookies.
+In this example I set up a full page modal which when opened dislpays a little bit of information about me. To create the modal required HTML to set the elements structure and add the content required, CSS to add the styling and Javascript to give the modal it's functionality.
